@@ -1,6 +1,6 @@
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word ="bubble".upcase
+your_favorite_word = "bubble"
 
 puts "My favorite word is #{your_favorite_word}"
 
@@ -48,7 +48,3 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 sentence = sentence.gsub("A", "O").gsub("a", "o") # Add your gsub chain here
 
 puts sentence
-
-
-
-Collapse 
